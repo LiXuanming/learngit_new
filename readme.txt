@@ -1,7 +1,3 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Git color.
-Git.
-Git has updated.
+This is a text query project.
+It is in TextQuery document.
+It has three files,where main.cpp is main programming.
