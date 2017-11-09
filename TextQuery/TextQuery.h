@@ -14,7 +14,7 @@ public:
 
 	typedef string::size_type str_size;
 
-	void read_line(ifstream &is)
+	void read_file(ifstream &is)
 	{
 		store_file(is);
 		build_map();
